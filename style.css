@@ -52,7 +52,7 @@ a{
 }
 
 a:hover{
-    color: var(--sec-accent-color)
+    color: var(--accent-color)
 }
 
 #logo1{
